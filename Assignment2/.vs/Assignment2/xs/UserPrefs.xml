@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{0FDBE1F9-96A6-49C7-9288-62B2595C7FB9}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Assignment2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assignment2/MathWorK.cs">
+    <Files>
+      <File FileName="Assignment2/WorkingSchedule.cs" />
+      <File FileName="Assignment2/Program.cs" />
+      <File FileName="Assignment2/FunFeature.cs" />
+      <File FileName="Assignment2/TemperatureConverter.cs" />
+      <File FileName="Assignment2/MathWorK.cs" Line="71" Column="71" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Assignment2" expanded="True">
+            <Node name="Assignment2" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

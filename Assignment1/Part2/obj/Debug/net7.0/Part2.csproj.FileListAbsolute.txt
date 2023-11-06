@@ -1,0 +1,15 @@
+/Users/flavialuyima/Projects/Assignment1/GradeAandB/bin/Debug/net7.0/GradeAandB
+/Users/flavialuyima/Projects/Assignment1/GradeAandB/bin/Debug/net7.0/GradeAandB.deps.json
+/Users/flavialuyima/Projects/Assignment1/GradeAandB/bin/Debug/net7.0/GradeAandB.runtimeconfig.json
+/Users/flavialuyima/Projects/Assignment1/GradeAandB/bin/Debug/net7.0/GradeAandB.dll
+/Users/flavialuyima/Projects/Assignment1/GradeAandB/bin/Debug/net7.0/GradeAandB.pdb
+/Users/flavialuyima/Projects/Assignment1/GradeAandB/obj/Debug/net7.0/Part2.csproj.AssemblyReference.cache
+/Users/flavialuyima/Projects/Assignment1/GradeAandB/obj/Debug/net7.0/Part2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/flavialuyima/Projects/Assignment1/GradeAandB/obj/Debug/net7.0/Part2.AssemblyInfoInputs.cache
+/Users/flavialuyima/Projects/Assignment1/GradeAandB/obj/Debug/net7.0/Part2.AssemblyInfo.cs
+/Users/flavialuyima/Projects/Assignment1/GradeAandB/obj/Debug/net7.0/Part2.csproj.CoreCompileInputs.cache
+/Users/flavialuyima/Projects/Assignment1/GradeAandB/obj/Debug/net7.0/GradeAandB.dll
+/Users/flavialuyima/Projects/Assignment1/GradeAandB/obj/Debug/net7.0/refint/GradeAandB.dll
+/Users/flavialuyima/Projects/Assignment1/GradeAandB/obj/Debug/net7.0/GradeAandB.pdb
+/Users/flavialuyima/Projects/Assignment1/GradeAandB/obj/Debug/net7.0/Part2.genruntimeconfig.cache
+/Users/flavialuyima/Projects/Assignment1/GradeAandB/obj/Debug/net7.0/ref/GradeAandB.dll

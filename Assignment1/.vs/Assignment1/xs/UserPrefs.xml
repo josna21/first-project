@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{3953EB76-0DEF-46C3-A78F-8CAFBED3EA28}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Solution_220Items.Part2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <AuthorInfo Name="flavialuyima" Email="josephinenansubuga@rocketmail.com" Copyright="" Company="" Trademark="" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Part1/Pet.cs">
+    <Files>
+      <File FileName="Part2/Phone.cs" />
+      <File FileName="Part2/Program.cs" />
+      <File FileName="Part1/Album.cs" />
+      <File FileName="Part1/Pet.cs" Line="23" Column="1" />
+      <File FileName="Part1/TicketSeller.cs" />
+      <File FileName="Part1/Program.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Assignment1" expanded="True">
+            <Node name="Solution Items" expanded="True">
+              <Node name="Part2" expanded="True" />
+            </Node>
+            <Node name="Part1" expanded="True">
+              <Node name="Pet.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Part1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
